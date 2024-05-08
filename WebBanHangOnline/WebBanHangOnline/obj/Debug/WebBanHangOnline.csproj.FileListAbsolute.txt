@@ -1,0 +1,610 @@
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\WebBanHangOnline.dll.config
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\WebBanHangOnline.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\WebBanHangOnline.pdb
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\roslyn\csc.exe
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\roslyn\csc.exe.config
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\roslyn\csc.rsp
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\roslyn\csi.exe
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\roslyn\csi.exe.config
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\roslyn\csi.rsp
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.AppContext.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Console.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Globalization.Calendars.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.IO.Compression.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.IO.FileSystem.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Net.Http.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Net.Sockets.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.ValueTuple.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Xml.XPath.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\roslyn\vbc.exe
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\roslyn\vbc.exe.config
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\roslyn\vbc.rsp
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\roslyn\VBCSCompiler.exe
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\Antlr3.Runtime.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\EntityFramework.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\EntityFramework.SqlServer.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.Google.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\Newtonsoft.Json.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\Owin.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\System.Web.Helpers.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\System.Web.Mvc.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\System.Web.Optimization.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\System.Web.Razor.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\System.Web.WebPages.Deployment.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\System.Web.WebPages.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\System.Web.WebPages.Razor.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\WebGrease.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\System.Web.Helpers.xml
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\System.Web.Mvc.xml
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\System.Web.Optimization.xml
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\System.Web.Razor.xml
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\System.Web.WebPages.xml
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\System.Web.WebPages.Deployment.xml
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\System.Web.WebPages.Razor.xml
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\Newtonsoft.Json.xml
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\Antlr3.Runtime.pdb
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\EntityFramework.xml
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\EntityFramework.SqlServer.xml
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.xml
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.xml
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.Google.xml
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.csproj.CoreCompileInputs.cache
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.csproj.CopyComplete
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.pdb
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.csproj.AssemblyReference.cache
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.Migrations.CreatedDataabase.resources
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.csproj.GenerateResource.cache
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.Migrations.UpdateCategory.resources
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.Migrations.UpdateData.resources
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\CKFinder.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\CKFinder.pdb
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.Migrations.UpdateActive.resources
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.Migrations.ChangeModels.resources
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\PagedList.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\PagedList.Mvc.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\PagedList.xml
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\PagedList.Mvc.xml
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.Migrations.UpdateProductCategory.resources
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.Migrations.Update1206.resources
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.Migrations.Update12061.resources
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.Migrations.UpdatePayment.resources
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.Migrations.CreateTBThongKe.resources
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\Dapper.dll
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\bin\Dapper.xml
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.Migrations.UpdteEmail.resources
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.Migrations.Updatekey.resources
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.Migrations.CreateTableEmailAndSetting.resources
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.Migrations.DeleteTable.resources
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.Migrations.DeleteTable2.resources
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.Migrations.UpdateSubcrie.resources
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.Migrations.Edit544.resources
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.Migrations.Test21.resources
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.Migrations.Test23.resources
+C:\Projects\WebsiteBanhang\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.Migrations.AddStatus.resources
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\WebBanHangOnline.dll.config
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\WebBanHangOnline.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\WebBanHangOnline.pdb
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\csc.exe
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\csc.exe.config
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\csc.rsp
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\csi.exe
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\csi.exe.config
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\csi.rsp
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.AppContext.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Collections.Immutable.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Console.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Globalization.Calendars.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.IO.Compression.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.IO.FileSystem.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Net.Http.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Net.Sockets.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Reflection.Metadata.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.ValueTuple.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Xml.XPath.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\vbc.exe
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\vbc.exe.config
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\vbc.rsp
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\VBCSCompiler.exe
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\VBCSCompiler.exe.config
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\Antlr3.Runtime.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\CKFinder.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\Dapper.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\EntityFramework.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\EntityFramework.SqlServer.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.Google.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Web.Infrastructure.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\Newtonsoft.Json.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\Owin.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\PagedList.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\PagedList.Mvc.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\System.Web.Helpers.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\System.Web.Mvc.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\System.Web.Optimization.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\System.Web.Razor.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\System.Web.WebPages.Deployment.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\System.Web.WebPages.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\System.Web.WebPages.Razor.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\WebGrease.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\CKFinder.pdb
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\Dapper.xml
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\PagedList.xml
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\PagedList.Mvc.xml
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\System.Web.Helpers.xml
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\System.Web.Mvc.xml
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\System.Web.Optimization.xml
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\System.Web.Razor.xml
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\System.Web.WebPages.xml
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\System.Web.WebPages.Deployment.xml
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\System.Web.WebPages.Razor.xml
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\Newtonsoft.Json.xml
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\Antlr3.Runtime.pdb
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\EntityFramework.xml
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\EntityFramework.SqlServer.xml
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.xml
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.xml
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.Google.xml
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Ex\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.csproj.AssemblyReference.cache
+D:\Ex\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.csproj.CoreCompileInputs.cache
+D:\Ex\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.csproj.CopyComplete
+D:\Ex\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.dll
+D:\Ex\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.pdb
+D:\Ex\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.Migrations.DatabseNew.resources
+D:\Ex\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.csproj.GenerateResource.cache
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\WebBanHangOnline.dll.config
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\WebBanHangOnline.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\WebBanHangOnline.pdb
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\csc.exe
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\csc.exe.config
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\csc.rsp
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\csi.exe
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\csi.exe.config
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\csi.rsp
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.AppContext.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Collections.Immutable.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Console.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Globalization.Calendars.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.IO.Compression.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.IO.FileSystem.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Net.Http.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Net.Sockets.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Reflection.Metadata.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.ValueTuple.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Xml.XPath.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\vbc.exe
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\vbc.exe.config
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\vbc.rsp
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\VBCSCompiler.exe
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\VBCSCompiler.exe.config
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Antlr3.Runtime.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\CKFinder.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Dapper.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\EntityFramework.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\EntityFramework.SqlServer.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.Google.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Web.Infrastructure.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Newtonsoft.Json.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Owin.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\PagedList.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\PagedList.Mvc.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\System.Web.Helpers.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\System.Web.Mvc.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\System.Web.Optimization.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\System.Web.Razor.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\System.Web.WebPages.Deployment.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\System.Web.WebPages.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\System.Web.WebPages.Razor.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\WebGrease.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\CKFinder.pdb
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Dapper.xml
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\PagedList.xml
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\PagedList.Mvc.xml
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\System.Web.Helpers.xml
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\System.Web.Mvc.xml
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\System.Web.Optimization.xml
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\System.Web.Razor.xml
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\System.Web.WebPages.xml
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\System.Web.WebPages.Deployment.xml
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\System.Web.WebPages.Razor.xml
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Newtonsoft.Json.xml
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Antlr3.Runtime.pdb
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\EntityFramework.xml
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\EntityFramework.SqlServer.xml
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.xml
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.xml
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.Google.xml
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.csproj.AssemblyReference.cache
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.csproj.CoreCompileInputs.cache
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.csproj.CopyComplete
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.dll
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.pdb
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.Migrations.dt.resources
+D:\Thực Tập\Ex\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.csproj.GenerateResource.cache
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\WebBanHangOnline.dll.config
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\WebBanHangOnline.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\WebBanHangOnline.pdb
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\csc.exe
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\csc.exe.config
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\csc.rsp
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\csi.exe
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\csi.exe.config
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\csi.rsp
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.AppContext.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Collections.Immutable.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Console.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Globalization.Calendars.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.IO.Compression.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.IO.FileSystem.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Net.Http.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Net.Sockets.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Reflection.Metadata.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.ValueTuple.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Xml.XPath.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\vbc.exe
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\vbc.exe.config
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\vbc.rsp
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\VBCSCompiler.exe
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\VBCSCompiler.exe.config
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Antlr3.Runtime.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\CKFinder.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Dapper.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\EntityFramework.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\EntityFramework.SqlServer.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.Google.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Web.Infrastructure.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Newtonsoft.Json.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Owin.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\PagedList.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\PagedList.Mvc.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\System.Web.Helpers.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\System.Web.Mvc.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\System.Web.Optimization.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\System.Web.Razor.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\System.Web.WebPages.Deployment.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\System.Web.WebPages.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\System.Web.WebPages.Razor.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\WebGrease.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\CKFinder.pdb
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Dapper.xml
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\PagedList.xml
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\PagedList.Mvc.xml
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\System.Web.Helpers.xml
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\System.Web.Mvc.xml
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\System.Web.Optimization.xml
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\System.Web.Razor.xml
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\System.Web.WebPages.xml
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\System.Web.WebPages.Deployment.xml
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\System.Web.WebPages.Razor.xml
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Newtonsoft.Json.xml
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Antlr3.Runtime.pdb
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\EntityFramework.xml
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\EntityFramework.SqlServer.xml
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.xml
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.xml
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.Google.xml
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.csproj.AssemblyReference.cache
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.csproj.CoreCompileInputs.cache
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.csproj.CopyComplete
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.dll
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.pdb
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.Migrations.add.resources
+D:\Báo cáo thực tập\Ex\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\WebBanHangOnline.dll.config
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\WebBanHangOnline.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\WebBanHangOnline.pdb
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\csc.exe
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\csc.exe.config
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\csc.rsp
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\csi.exe
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\csi.exe.config
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\csi.rsp
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Console.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\vbc.exe
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\vbc.rsp
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\CKFinder.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\Dapper.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\EntityFramework.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\Owin.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\PagedList.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\PagedList.Mvc.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\System.Web.Helpers.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\System.Web.Mvc.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\System.Web.Optimization.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\System.Web.Razor.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\System.Web.WebPages.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\WebGrease.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\CKFinder.pdb
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\Dapper.xml
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\PagedList.xml
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\PagedList.Mvc.xml
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\System.Web.Helpers.xml
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\System.Web.Mvc.xml
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\System.Web.Optimization.xml
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\System.Web.Razor.xml
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\System.Web.WebPages.xml
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\EntityFramework.xml
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.xml
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.xml
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.Migrations.add.resources
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.csproj.CopyComplete
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.dll
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.pdb
+C:\Users\Admin\Documents\Ex\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.Migrations.dt.resources
